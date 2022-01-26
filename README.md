@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VegSelj, I work as an engineer for Norwegian Institute for Nature Research (NINA).
 - 👀 I’m interested in freshwater ecology.
-- 🌱 I’m currently learning to share R and RMarkdown scripts with colleagues and peers using GitHub.
 - 📫 How to reach me: vegar.seljestokken@nina.no
 
 <!---
